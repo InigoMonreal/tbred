@@ -12,3 +12,5 @@ route
 plan
 movement
 emergencyStop
+
+Launch file is locate in ptn_pkg
